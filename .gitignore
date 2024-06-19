@@ -1,0 +1,10 @@
+# Ignores clasp files
+.clasp.json
+.claspignore
+src/appsscript.json
+
+#Ignores node_modules directory
+node_modules
+
+#Ignores nonessential js files
+src/test.js
